@@ -29,3 +29,8 @@ Via deze URL kun je vervolgens je applicatie bekijken.
 
 Notitie: dit project bevat ook een Docker-file om te runnen in containers en deployment te vergemakkelijken. 
 Zie hiervoor ook [Docker's Tutorial](https://www.docker.com/101-tutorial/).
+
+## Tips, opmerkingen en aandachtspuntjes
+
+Dit is een erg simpele opzet voor eerstejaars ICT-studenten. In een realistisch project worden er bijvoorbeeld ook [unit tests](./https://www.geeksforgeeks.org/unit-testing-software-testing/) geschreven, waarmee code automatisch getest wordt. Het project bevat wel al een simpele dockerfile. 
+
